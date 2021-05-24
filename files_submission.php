@@ -1,7 +1,7 @@
 <?php
 $host='127.0.0.1';
 $username='root';
-$password='2019023239';
+$password='xuehao';
 $dbname='db_book_php_15';
 if(!is_dir("./abc")){
     mkdir("./abc",0777);
